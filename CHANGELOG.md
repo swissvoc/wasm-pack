@@ -1,5 +1,12 @@
 # Changelog
 
+## 🌅 0.6.0
+
+- ### ✨ Features
+- ### 🤕 Fixes
+- ### 🛠️ Maintenance
+- ### 📖 Documentation
+
 ## 🌄 0.5.1
 
 - ### 🤕 Fixes
